@@ -45,10 +45,9 @@ padding-right:0;
   display:block;
 }
 
-/*
- .brochure-block .contact-link {
+#block-course-info-course-brochure .brochure-block .contact-link {
   display:none;
-}*/
+}
 
 .front .sidebar .block-content ul li,
 .page-registration-information .sidebar .block-content ul li,
