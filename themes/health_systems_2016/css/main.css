@@ -49,9 +49,10 @@ padding-right:0;
   display:none;
 }
 
-.front .sidebar .block-content ul li,
-.page-registration-information .sidebar .block-content ul li,
-.page-agenda .sidebar .block-content ul li {
+/*.page-registration-information .sidebar .block-content ul li,
+.front .sidebar .block-content ul li
+.page-agenda .sidebar .block-content ul li {*/
+.sidebar .block-content ul li {
   margin-bottom:3px;
 }
 
