@@ -59,3 +59,16 @@ padding-right:0;
 .nav ul.menu li.agenda {
   width:13%;
 }
+
+.nav ul.menu li.last {
+  border-right: none;
+  background: #830808;
+  color: #FFF;
+  width:24%;
+}
+
+@media screen and (max-width:1010px) {
+  .nav ul.menu li.last {
+    width:23.5%;
+  }
+}

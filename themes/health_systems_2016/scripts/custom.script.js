@@ -1,6 +1,7 @@
 jQuery(document).ready(function($) {
 
-$('.brochure-block .earlybird a').text('Register');
+$('.brochure-block .earlybird a').text('Apply');
+$('.online-reg a').text('Apply online');
 
 if($('body').hasClass('page-faculty')) {
   $('.bio-full-toggle a').click(
