@@ -66,6 +66,7 @@ padding-right:0;
   color: #FFF;
   width:24%;
 }
+.nav ul.menu li.last a {color:#FFF;}
 
 @media screen and (max-width:1010px) {
   .nav ul.menu li.last {
